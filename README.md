@@ -3,8 +3,6 @@
 
 
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor=#2CD406)
-![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=mysql&logoColor=blue)
-![Framework](https://img.shields.io/badge/-Framework-black?style=for-the-badge&logo=.net&logoColor=white)
 ![QT](https://img.shields.io/badge/-QT-black?style=for-the-badge&logo=qt&logoColor=#59D43D)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=appveyor&logoColor=orange)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=appveyor&logoColor=blue)
