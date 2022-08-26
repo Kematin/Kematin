@@ -1,12 +1,23 @@
 ## Hi✌ 
 ### <p align=center><i>~~~~~~~~~~~My skills~~~~~~~~~~~</i></p>
 
+```python
+def skills():
+    print("Python")
+    print("Django")
+    print("Qt")
+```
 
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor=#2CD406)
-![QT](https://img.shields.io/badge/-QT-black?style=for-the-badge&logo=qt&logoColor=#59D43D)
-![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=appveyor&logoColor=orange)
-![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=appveyor&logoColor=blue)
-![OOP](https://img.shields.io/badge/-OOP-black?style=for-the-badge&logo=appveyor&logoColor=White)
+```html
+<p>Html</p>
+```
+
+```css
+Css {
+    bootstrap: True;    
+    Sass: False;
+}
+```
 
 ### <p align=center><i>~~~~~~~~~~~Follow me~~~~~~~~~~~</i></p>
 
