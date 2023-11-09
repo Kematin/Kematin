@@ -15,6 +15,20 @@
 - FastAPI (beginner)
 - React (beginner)
 
+*Learning*:
+- Stepic course
+- Metanit course
+- CS50 course
+- DRF selfedu course
+- FastAPI book (in progress)
+- Learning Python Mark Lutz (in progress)
+
+*Projects*:
+- TODO app, Weather finder, Currency Сalculator
+- Mail, Ebay, Wiki simple clones
+- Chatgpt assistant
+- Microcontrollers project (in progress)
+
 ### <p align=center><i>~~~~~~~~~~~Follow me~~~~~~~~~~~</i></p>
 
 [![VK](https://img.shields.io/badge/-VK-pink?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/kematin)
