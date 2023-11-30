@@ -8,12 +8,20 @@
 - HTML
 - CSS
 - SQL
+  - SQLite
+  - MongoDB
 
 *Frameworks*:
 - Django
 - DRF
 - FastAPI (beginner)
 - React (beginner)
+
+*Tools*:
+- Docker
+- Postman
+- Terminal
+- Figma
 
 *Learning*:
 - Stepic course
