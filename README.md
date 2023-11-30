@@ -19,9 +19,12 @@
 
 *Tools*:
 - Docker
+- Nginx
 - Postman
 - Terminal
 - Figma
+- Vite
+- Linters
 
 *Learning*:
 - Stepic course
