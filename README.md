@@ -14,7 +14,7 @@
 *Frameworks*:
 - Django
 - DRF
-- FastAPI (beginner)
+- FastAPI
 - React (beginner)
 
 *Tools*:
@@ -31,7 +31,7 @@
 - Metanit course
 - CS50 course
 - DRF selfedu course
-- FastAPI book (in progress)
+- FastAPI book
 - Learning Python Mark Lutz (in progress)
 
 *Projects*:
