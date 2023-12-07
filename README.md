@@ -4,7 +4,7 @@
 *Languages*:
 - Python
 - Java (beginner)
-- Javascript (beginner)
+- Javascript
 - HTML
 - CSS
 - SQL
@@ -15,7 +15,7 @@
 - Django
 - DRF
 - FastAPI
-- React (beginner)
+- React
 
 *Tools*:
 - Docker
