@@ -25,6 +25,7 @@
 - Figma
 - Vite
 - Linters
+- Poetry
 
 *Learning*:
 - Stepic course
@@ -38,7 +39,7 @@
 - TODO app, Weather finder, Currency Сalculator
 - Mail, Ebay, Wiki simple clones
 - Chatgpt assistant
-- Microcontrollers project (in progress)
+- Microcontrollers project
 
 ### <p align=center><i>~~~~~~~~~~~Follow me~~~~~~~~~~~</i></p>
 
