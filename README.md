@@ -38,8 +38,9 @@
 *Projects*:
 - TODO app, Weather finder, Currency Сalculator
 - Mail, Ebay, Wiki simple clones
-- Chatgpt assistant
-- Microcontrollers project
+- Chatgpt Assistant
+- Microcontrollers Project
+- Telegram Converter Bot
 
 ### <p align=center><i>~~~~~~~~~~~Follow me~~~~~~~~~~~</i></p>
 
