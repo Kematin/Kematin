@@ -36,6 +36,7 @@
 - Learning Python Mark Lutz (in progress)
 
 *Projects*:
+- Ready-made Telegram Store With Admin Panel
 - TODO app, Weather finder, Currency Сalculator
 - Mail, Ebay, Wiki simple clones
 - Chatgpt Assistant
