@@ -4,6 +4,7 @@
 *Languages*:
 - Python
 - Java (beginner)
+- C++ (beginner)
 - Javascript
 - HTML
 - CSS
