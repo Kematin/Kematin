@@ -43,6 +43,7 @@
 - Chatgpt Assistant
 - Microcontrollers Project
 - Telegram Converter Bot
+- Parsers
 
 ### <p align=center><i>~~~~~~~~~~~Follow me~~~~~~~~~~~</i></p>
 
