@@ -13,13 +13,13 @@ Love ~~кодироваться~~ coding and get money 💸
 
 My main experience for _3 years_ has been in **backend development**, but I am also interested in security, server administration, and microcontroller programming 💫
 
-##### 📃 I'm currently learning:
+#### 📃 I'm currently learning:
 
 ![DRF](https://img.shields.io/badge/DRF-%23000000.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Clean Code](https://img.shields.io/badge/Clean%20Code-%23FFFFFF.svg?style=for-the-badge&logo=codepen&logoColor=black)
 ![DB's](https://img.shields.io/badge/DB%60s-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-##### 🚀 Some Tools I Use
+#### 🚀 Some Tools I Use
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="30" height="30"/>
@@ -60,7 +60,7 @@ My main experience for _3 years_ has been in **backend development**, but I am a
 </p>
 
 
-##### ℹ️ My contacts:
+#### ℹ️ My contacts:
 
 ---
 <a href="https://t.me/kematinl" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40kematinl-28a8ea"></a>
