@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-    <img style="border:1px solid transparent;border-radius:5px" height="400" width="600" src="./cobein.jpeg">
+    <img style="border:1px solid transparent;border-radius:5px" height="400" width="600" src="./clouds1.jpeg">
 </div>
 
 
