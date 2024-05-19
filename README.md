@@ -11,7 +11,7 @@
 
 I'm Kematin (17 y.o) ! 😎
 
-Love ~~кодироваться~~ coding and get money 💸 
+Love coding and get money 💸 
 
 My main experience for _3 years_ has been in **backend development**, but I am also interested in security, server administration, and microcontroller programming 💫
 
